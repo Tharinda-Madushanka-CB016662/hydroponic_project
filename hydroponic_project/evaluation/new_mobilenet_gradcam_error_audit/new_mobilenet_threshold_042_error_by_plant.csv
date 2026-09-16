@@ -1,0 +1,12 @@
+plant_id,observations,healthy_ground_truth,unhealthy_ground_truth,false_positives,false_negatives,total_errors
+P12,14,8,6,8,4,12
+P06,18,11,7,3,4,7
+P11,15,9,6,0,6,6
+P07,12,9,3,0,3,3
+P03,12,10,2,1,2,3
+P10,14,10,4,0,1,1
+P09,12,5,7,1,0,1
+P01,14,7,7,0,0,0
+P02,10,10,0,0,0,0
+P04,13,8,5,0,0,0
+P05,15,8,7,0,0,0

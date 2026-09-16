@@ -1,0 +1,4 @@
+model,threshold,correct,wrong,accuracy
+MobileNetV2,0.5,111,38,0.7449664429530202
+ResNet18,0.5,106,43,0.7114093959731543
+EfficientNet-B0,0.5,97,52,0.6510067114093959

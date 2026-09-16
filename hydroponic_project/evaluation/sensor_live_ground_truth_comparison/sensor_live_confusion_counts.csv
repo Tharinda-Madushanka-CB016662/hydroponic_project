@@ -1,0 +1,4 @@
+experiment,healthy_correct_tn,healthy_as_unhealthy_fp,unhealthy_as_healthy_fn,unhealthy_correct_tp
+Old_Sensor_RF_6Feature_Threshold_0.50,47,48,35,19
+New_Sensor_RF_5Feature_Threshold_0.50,57,38,42,12
+New_Sensor_RF_5Feature_Selected_Threshold_0.48,57,38,42,12

@@ -1,0 +1,3 @@
+model_a,model_b,both_correct,a_correct_b_wrong,a_wrong_b_correct,both_wrong,discordant_pairs,exact_mcnemar_p_value
+New MobileNetV2 Image-Only,Classical Fusion 60/40,106,10,5,28,15,0.30175781249999994
+New MobileNetV2 Image-Only,Best Exploratory Fusion,106,10,5,28,15,0.30175781249999994

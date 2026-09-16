@@ -1,0 +1,6 @@
+experiment,true_healthy_pred_healthy,true_healthy_pred_unhealthy,true_unhealthy_pred_healthy,true_unhealthy_pred_unhealthy
+E1_Image_Only,95,0,53,1
+E2_Sensor_Only,47,48,35,19
+E3_Fusion_0600_0400,95,0,54,0
+E4_Fusion_0488_0512,72,23,47,7
+E5_Fusion_0400_0600,47,48,35,19

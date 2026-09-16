@@ -1,0 +1,4 @@
+model,architecture,status,model_file,file_size_mb,parameters_m,load_ms,mean_inference_ms,median_inference_ms,p95_inference_ms,mean_end_to_end_ms,throughput_img_s,samples,rounds,timed_inferences,best_val_f1,best_epoch,healthy_predictions,unhealthy_predictions
+MobileNetV2,mobilenet_v2,SUCCESS,/hydroponic_project/models/image/mobilenet_v2_best_healthy_unhealthy.pth,8.739,2.226,351.666,214.158,215.663,218.359,218.652,4.669,50,3,150,0.9942807534713776,9,147,3
+ResNet18,resnet18,SUCCESS,/hydroponic_project/models/image/resnet18_best_healthy_unhealthy.pth,42.719,11.178,710.055,224.069,223.891,226.489,228.545,4.463,50,3,150,0.9942807534713776,6,141,9
+EfficientNet-B0,efficientnet_b0,SUCCESS,/hydroponic_project/models/image/efficientnet_b0_best_healthy_unhealthy.pth,15.598,4.01,459.844,250.605,249.949,255.363,255.112,3.99,50,3,150,1.0,1,150,0

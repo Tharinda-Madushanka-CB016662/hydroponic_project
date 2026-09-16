@@ -1,0 +1,11 @@
+comparison,metric,observed_difference,permutation_p_value_two_sided,permutation_iterations,capture_clusters
+Fusion_60_40_minus_Image_Only,accuracy,-0.03355704697986572,0.49055094490550943,10000,18
+Fusion_60_40_minus_Image_Only,balanced_accuracy,-0.034307992202729176,0.5056494350564944,10000,18
+Fusion_60_40_minus_Image_Only,macro_f1,-0.03609060350279725,0.48135186481351866,10000,18
+Fusion_60_40_minus_Image_Only,unhealthy_recall,-0.03703703703703709,0.873012698730127,10000,18
+Fusion_60_40_minus_Image_Only,unhealthy_f1,-0.045816346340516456,0.5774422557744225,10000,18
+Best_Exploratory_Fusion_minus_Image_Only,accuracy,-0.03355704697986572,0.49055094490550943,10000,18
+Best_Exploratory_Fusion_minus_Image_Only,balanced_accuracy,-0.034307992202729176,0.5056494350564944,10000,18
+Best_Exploratory_Fusion_minus_Image_Only,macro_f1,-0.03609060350279725,0.48135186481351866,10000,18
+Best_Exploratory_Fusion_minus_Image_Only,unhealthy_recall,-0.03703703703703709,0.873012698730127,10000,18
+Best_Exploratory_Fusion_minus_Image_Only,unhealthy_f1,-0.045816346340516456,0.5774422557744225,10000,18

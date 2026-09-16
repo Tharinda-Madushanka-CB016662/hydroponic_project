@@ -1,0 +1,12 @@
+metric,value,percentage
+Eligible plant observations,1750.0,
+Unique captures,147.0,
+Image-Sensor agreements,887.0,50.68571428571429
+Image-Sensor disagreements,863.0,49.31428571428572
+Image-Fusion agreements,1717.0,98.11428571428571
+Sensor-Fusion agreements,920.0,52.57142857142857
+Fusion follows Image during disagreement,830.0,96.17612977983777
+Fusion follows Sensor during disagreement,33.0,3.8238702201622248
+Mean Image confidence,0.9647156709943498,
+Mean Sensor confidence,0.7993885714285713,
+Mean Fusion confidence,0.7447370378706429,

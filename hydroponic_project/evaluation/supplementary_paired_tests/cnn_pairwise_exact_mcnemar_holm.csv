@@ -1,0 +1,4 @@
+model_a,model_b,both_correct,a_correct_b_wrong,a_wrong_b_correct,both_wrong,discordant_pairs,exact_mcnemar_p_value,holm_adjusted_p_value,significant_after_holm_0_05
+MobileNetV2,ResNet18,95,16,11,27,27,0.44206833839416504,0.44206833839416504,False
+MobileNetV2,EfficientNet-B0,85,26,12,26,38,0.03355243967962451,0.10065731903887354,False
+ResNet18,EfficientNet-B0,89,17,8,35,25,0.10775214433670044,0.21550428867340088,False

@@ -1,0 +1,3 @@
+mean_accuracy_difference,ci_2_5,ci_97_5,bootstrap_iterations,unique_capture_clusters,comparison
+-0.032820085644306204,-0.10127908739483057,0.041095890410958846,5000,18,Fusion_60_40_minus_Image_Only
+-0.032820085644306204,-0.10127908739483057,0.041095890410958846,5000,18,Best_Exploratory_Fusion_minus_Image_Only

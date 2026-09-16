@@ -1,0 +1,19 @@
+dataset,analysis_type,lag_or_window_minutes,matched_captures,sensor_risk_vs_visible_fraction_spearman,expert_warning_vs_visible_fraction_spearman,sensor_risk_auc_any_visible_unhealthy
+All labelled captures,single_lag,0,18,0.024998724587403195,0.1159442654999891,0.5714285714285714
+All labelled captures,single_lag,15,6,,,
+All labelled captures,single_lag,30,12,0.0428710642942023,0.1801874925391118,0.5555555555555556
+All labelled captures,single_lag,60,13,0.1914894068041178,-0.3469443332443555,0.6666666666666666
+All labelled captures,single_lag,120,11,0.40414518843273806,-0.04303314829119352,0.7333333333333334
+All labelled captures,exposure_window_mean,60,18,0.09637388493048532,0.14118770520222948,
+All labelled captures,exposure_window_max,60,18,0.2601834007554996,,
+All labelled captures,exposure_window_mean,120,18,0.23915001075342657,0.04370345426734004,
+All labelled captures,exposure_window_max,120,18,0.555844832094583,,
+Primary captures >= 5 plants,single_lag,0,15,0.0,0.21374549001774043,0.5714285714285714
+Primary captures >= 5 plants,single_lag,15,6,,,
+Primary captures >= 5 plants,single_lag,30,12,0.0428710642942023,0.1801874925391118,0.5555555555555556
+Primary captures >= 5 plants,single_lag,60,10,0.04020151261036848,-0.3207501495497921,0.625
+Primary captures >= 5 plants,single_lag,120,8,0.16903085094570333,-0.2927700218845599,0.6000000000000001
+Primary captures >= 5 plants,exposure_window_mean,60,15,0.0,0.24374443354676445,
+Primary captures >= 5 plants,exposure_window_max,60,15,0.22462057290059437,,
+Primary captures >= 5 plants,exposure_window_mean,120,15,0.0,0.07884595601421861,
+Primary captures >= 5 plants,exposure_window_max,120,15,0.4428888570382014,,

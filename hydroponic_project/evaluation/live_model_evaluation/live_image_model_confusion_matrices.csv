@@ -1,0 +1,5 @@
+model,healthy_to_healthy,healthy_to_unhealthy,unhealthy_to_healthy,unhealthy_to_unhealthy
+Old_MobileNetV2,95,0,53,1
+New_MobileNetV2,83,12,26,28
+New_ResNet18,89,6,37,17
+New_EfficientNet_B0,94,1,51,3
